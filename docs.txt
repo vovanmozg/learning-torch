@@ -1,0 +1,15 @@
+MAC OS
+https://github.com/torch/torch7
+https://github.com/szagoruyko/loadcaffe
+https://github.com/hughperkins/clnn
+https://github.com/hughperkins/cltorch
+
+https://github.com/jcjohnson/neural-style/wiki/Usage-and-results
+https://github.com/jcjohnson/neural-style/issues/44
+http://stackoverflow.com/questions/14756026/how-to-downgrade-xcode-to-previous-version
+http://stackoverflow.com/questions/36404908/xcode-7-2-instead-of-7-3-on-mac-10-11-2
+https://github.com/ld-test/opencl/blob/master/examples/sum/sum.lua
+https://github.com/torch/cutorch/issues/220
+
+http://blog.deepart.io/2016/06/04/color-independent-style-transfer/
+http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/
